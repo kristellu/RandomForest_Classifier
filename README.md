@@ -8,3 +8,7 @@ Para el diseño e implementación de un sistema capaz de detectar y clasificar l
 4. Validación del modelo y de posibles variables de respuesta/objetivo, mediante el análisis de curvas ROC para cada clase (digitos entre 0-9).
 5. Gráfica de importancia de características para medir la variabilidad del modelo cuando se afectan las variables de entrada.
 6. Comparación de resultados obtenidos.
+
+
+Original file is located at
+    https://colab.research.google.com/drive/1lbNbkbG4OLxQMqrWQhc4_VeQJAhT2UnN
